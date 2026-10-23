@@ -1,0 +1,10 @@
+dev-requirements.txt
+pyproject.toml
+GIS_Wasteco/__init__.py
+GIS_Wasteco/__main__.py
+GIS_Wasteco.egg-info/PKG-INFO
+GIS_Wasteco.egg-info/SOURCES.txt
+GIS_Wasteco.egg-info/dependency_links.txt
+GIS_Wasteco.egg-info/requires.txt
+GIS_Wasteco.egg-info/top_level.txt
+tests/test_GIS_Wasteco.py
